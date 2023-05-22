@@ -24,11 +24,11 @@ for ( let i=0 ; i < email.length ; i++ ) {
 }
 
 if ( flag === true) {
-    document.getElementById('email').innerHTML=`la email ${email_utente} è valida`;
+    document.getElementById('email').innerHTML=`la email ${email_utente} è nella lista`;
 }
 
 else{
-    document.getElementById('email').innerHTML=`la email ${email_utente} non è valida`;
+    document.getElementById('email').innerHTML=`la email ${email_utente} non è nella lista`;
 }
 
 // fine //
