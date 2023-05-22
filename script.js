@@ -11,7 +11,7 @@ let email_utente = domanda.toLowerCase()
 console.log(email_utente)
 
 
-//punto 3//
+//punto 3 e 4//
 
 let flag= false
 
